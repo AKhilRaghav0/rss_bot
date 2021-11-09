@@ -11,7 +11,7 @@
 <span>  · </span>
 <a href="#todo">Todo</a>
 </h3>
-<p align="center"><b><a href="https://t.me/genrssbot">https://t.me/genrssbot</a></b></p>
+<p align="center"><b><a href="https://t.me/rssak_bot">https://t.me/genrssbot</a></b></p>
 
 ---
 
